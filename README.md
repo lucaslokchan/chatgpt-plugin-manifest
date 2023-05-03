@@ -4,7 +4,7 @@ This GitHub repository contains the manifests for ChatGPT plugins, which allows 
 ## ChatGPT Plugin Documentations
 [Documentations](https://platform.openai.com/docs/plugins/introduction)
 
-### ChatGPT Plugin Manifests
+## List of ChatGPT Plugin Manifests
 
 |Name   |
 |---|
