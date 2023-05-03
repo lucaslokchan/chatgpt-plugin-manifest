@@ -3,3 +3,13 @@ This GitHub repository contains the manifests for ChatGPT plugins, which allows 
 
 ## ChatGPT Plugin Documentations
 [Documentations](https://platform.openai.com/docs/plugins/introduction)
+
+### ChatGPT Plugin Manifests
+
+|Name   |
+|---|
+|[Klarna](/Klarna)   |
+|[Milo Family AI](/Milo)   |
+|[Slack](/Slack)   |
+|[Wolfram](/Wolframalpha)   |
+|[Zapier](/Zapier)   |
